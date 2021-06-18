@@ -47,6 +47,8 @@ if ~isempty(find(newclippers(:)<0, 1))
    return;
 end
 
+newclippers = imclose(newclippers, ones(2,2,2));
+
 [~,b] = bwlabeln(newclippers);
 [~,b0] = bwlabeln(clippers);
 if b < b0

@@ -1,4 +1,4 @@
-# matlab.scar-edit-tools
+# Matlab Scar Editing Tools
 Edit tools for Scar Plugins
 
 ```Matlab

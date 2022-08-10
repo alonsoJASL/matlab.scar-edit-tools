@@ -12,3 +12,9 @@ To see documentation
 ```Matlab 
 help pVeinsCroppedEdit
 ```
+
+## Installation
+
+To install, normally use git to pull this repository. 
+If you just want the code, download the 
+[latest pre-release](https://github.com/alonsoJASL/matlab.scar-edit-tools).
